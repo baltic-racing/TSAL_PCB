@@ -1,7 +1,4 @@
 # TSAL - Tractive System Active Light
-
-# TSAL - Tractive System Active Light
-
 The TSAL is an optical indicator mounted at the top of the main hoop while being protected by the rollover-envelope. The TSAL indicates the status of the TS.
 
 The TSAL has a 24V power-input, a signal-input for each color (red, green) and a ground connection.
