@@ -1,0 +1,23 @@
+Circuit: * C:\Users\leon\repos\tsal\misc\simulation\TSAL.asc
+
+Limiting rise time of source v2 to 0.2
+Limiting fall time of source v2 to 0.2
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Oct 10 15:56:47 2018
+Total elapsed time: 0.315 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 26699
+traniter = 26683
+tranpoints = 6759
+accept = 5304
+rejected = 1455
+matrix size = 21
+fillins = 0
+solver = Normal
+Matrix Compiler1: 706 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 1.20 KB object code size  0.1/0.2/[0.1]
+
