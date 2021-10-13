@@ -127,7 +127,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FHBJYPJK
 
 [Document6]
-DocumentPath=tsal_logic.SchDoc
+DocumentPath=tsal-logic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
