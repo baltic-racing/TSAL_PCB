@@ -143,107 +143,123 @@ DocumentPath=.\gerbers\JLC_GERBERS\tsal.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.EXTREP
+DocumentPath=gerbers\JLC_GERBERS\tsal.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBL
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBO
+DocumentPath=gerbers\JLC_GERBERS\tsal.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBP
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBS
+DocumentPath=gerbers\JLC_GERBERS\tsal.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GKO
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GM
+DocumentPath=gerbers\JLC_GERBERS\tsal.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GM1
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GM13
+DocumentPath=gerbers\JLC_GERBERS\tsal.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTL
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTO
+DocumentPath=gerbers\JLC_GERBERS\tsal.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTP
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTS
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.LDP
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GM42
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.REP
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.RUL
+DocumentPath=gerbers\JLC_GERBERS\tsal.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal.TXT
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Copper_Signal_Bot.gbr
+DocumentPath=gerbers\JLC_GERBERS\tsal.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Copper_Signal_Top.gbr
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Legend_Bot.gbr
+DocumentPath=gerbers\JLC_GERBERS\tsal.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Legend_Top.gbr
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Paste_Bot.gbr
+DocumentPath=gerbers\JLC_GERBERS\tsal.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Paste_Top.gbr
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Profile.gbr
+DocumentPath=gerbers\JLC_GERBERS\tsal.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Soldermask_Bot.gbr
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.REP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=.\gerbers\JLC_GERBERS\tsal_Soldermask_Top.gbr
+DocumentPath=gerbers\JLC_GERBERS\tsal.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=gerbers\JLC_GERBERS\tsal.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\gerbers\JLC_GERBERS\tsal.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=gerbers\JLC_GERBERS\tsal.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -361,12 +377,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft PCL6 Class Driver
+TargetPrinter=HP Universal Printing PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -795,6 +821,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
